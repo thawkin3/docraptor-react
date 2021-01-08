@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/docraptor-react/build/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/docraptor-react/build/static/js/main.e8504517.chunk.js",
+    "main.js.map": "/docraptor-react/build/static/js/main.e8504517.chunk.js.map",
+    "runtime-main.js": "/docraptor-react/build/static/js/runtime-main.3f7048ef.js",
+    "runtime-main.js.map": "/docraptor-react/build/static/js/runtime-main.3f7048ef.js.map",
+    "static/js/2.abec1994.chunk.js": "/docraptor-react/build/static/js/2.abec1994.chunk.js",
+    "static/js/2.abec1994.chunk.js.map": "/docraptor-react/build/static/js/2.abec1994.chunk.js.map",
+    "static/js/3.f4b58a1f.chunk.js": "/docraptor-react/build/static/js/3.f4b58a1f.chunk.js",
+    "static/js/3.f4b58a1f.chunk.js.map": "/docraptor-react/build/static/js/3.f4b58a1f.chunk.js.map",
+    "index.html": "/docraptor-react/build/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/docraptor-react/build/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.abec1994.chunk.js.LICENSE.txt": "/docraptor-react/build/static/js/2.abec1994.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/docraptor-react/build/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f7048ef.js",
+    "static/js/2.abec1994.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e8504517.chunk.js"
+  ]
+}
